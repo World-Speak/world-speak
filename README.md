@@ -1,2 +1,2 @@
-# World-Speak
+# world-speak
 voice translator
